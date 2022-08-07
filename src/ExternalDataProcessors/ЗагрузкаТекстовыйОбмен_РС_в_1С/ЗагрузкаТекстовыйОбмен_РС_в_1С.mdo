@@ -8,8 +8,14 @@
     <key>ru</key>
     <value>Загрузка текстовый обмен РС в 1С</value>
   </synonym>
+  <comment>версия начальная</comment>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="93e4a3e6-7040-4f00-958b-fe0f346d287e"/>
   <defaultForm>ExternalDataProcessor.ЗагрузкаТекстовыйОбмен_РС_в_1С.Form.Форма</defaultForm>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
   <attributes uuid="3e0921ff-e770-4b9f-ada2-5f4c33158f04">
     <name>ДатаПоследнегоИзменения</name>
     <synonym>
